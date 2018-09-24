@@ -1,0 +1,10 @@
+This q0 = T,  q0 = h,  q1 = i,  q0 = s, 
+is q1 = i,  q0 = s, 
+a q0 = a, 
+file q0 = f,  q1 = i,  q0 = l,  q0 = e, 
+with q0 = w,  q1 = i,  q0 = t,  q0 = h, 
+no q0 = n,  q0 = o, 
+gerunds q0 = g,  q0 = e,  q0 = r,  q0 = u,  q0 = n,  q0 = d,  q0 = s, 
+
+This q0 = T,  q0 = h,  q1 = i,  q0 = s, 
+
